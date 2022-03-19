@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rashaadrandall.com/sitemap.xml
+Host: https://rashaadrandall.com
